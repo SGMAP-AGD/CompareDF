@@ -1,4 +1,15 @@
-# Nomenclature_Update
+# CompareDF - la comparaison de data frame.
+Comparer deux dataframe est un sujet récurrent. Nous proposons ici de recouper des fonctions utiles pour le faire.
+
+Il y a deux questions assez distinctes couvertes par cette librairie : 
+  * Tester l'égalité de deux tables
+  * Étudier l'évolution de la nomenclature
+
+# Comparaison
+
+
+# Nomenclature
+
 Le projet est ici de créer un utilitaire pour faciliter l'utilisation de panel lorsque les nomenclatures changent.
 
 ## Fonctions
